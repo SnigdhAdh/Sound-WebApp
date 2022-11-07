@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poor Story', cursive;
+    background-color: aliceblue;
+}
+.header_div{
+    background-color: darkcyan;
+}
+.header_div h2{
+    font-family: 'Anton', sans-serif;
+}
+.header_div p{
+    font-size: 17px;
+    color: turquoise;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+.main_div button{
+    background-color: navy;
+    color: whitesmoke;
+    font-family: 'Inconsolata', monospace;
+    letter-spacing: 3px;
+    font-weight: bolder;
+    margin-top: 30px;
+}
+#result_confidence{
+    font-size: 23px;
+}
+.copy_right_footer{
+    position: fixed;
+    font-family: 'Kolker Brush', cursive;
+    color: black;
+    font-size: 20px;
+    font-weight: bolder;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
